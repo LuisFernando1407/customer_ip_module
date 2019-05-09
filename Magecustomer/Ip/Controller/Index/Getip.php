@@ -2,8 +2,7 @@
 
 namespace Magecustomer\Ip\Controller\Index;
 
-class Getip extends \Magento\Framework\App\Action\Action
-{
+class Getip extends \Magento\Framework\App\Action\Action {
     protected $_pageFactory;
 
 	public function __construct(
